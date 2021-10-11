@@ -1,0 +1,10 @@
+{
+  "name": "eggsn's first",
+  "description": "My first gnome extension",
+  "uuid": "eggsnsfirst@eggsnham.com",
+  "shell-version": [
+    "3.38",
+    "3.36"
+  ],
+  "version": 1.0
+}
